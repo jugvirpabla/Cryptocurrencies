@@ -1,6 +1,8 @@
 # Cryptocurrencies
 
-## Data
+## Resources
+- Data Soruce: Crypto_data.csv
+- Software: Jupyter Notebooks, Python, Pandas, Standard Scaler, PCA, KMeansm Plotly Express, HvPlot
 
 ## Project Summary
 In this module, we were asked to help Accountability Accounting help create a new cryptocurrency investment portfolio for its customers. The company, however, is lost in the immense universe of cryptocurrencies and asks you to present a report of what cryptocurrencies are on the trading market and how cryptocurrencies could be grouped toward creating a classification for developing this new investment product.
